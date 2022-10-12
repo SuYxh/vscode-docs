@@ -1,15 +1,15 @@
 module.exports = function getGuideSidebar() {
   return [
     {
-      text: '指南',
+      text: '简介',
       children: [
         {
-          text: '文档1',
-          link: '/guide/button'
+          text: '有必要学习插件开发吗',
+          link: '/guide/有必要学习插件开发吗'
         },
         {
-          text: '文档2',
-          link: '/guide/modal'
+          text: '插件能做什么',
+          link: '/guide/插件能做什么'
         }
       ]
     }
