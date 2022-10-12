@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.svg
 actionText: Get Started
-actionLink: /guide/
+actionLink: /usingDocument/简介
 
 altActionText: Learn More
 altActionLink: /guide/
