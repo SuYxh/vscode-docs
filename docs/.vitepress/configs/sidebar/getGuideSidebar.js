@@ -36,6 +36,10 @@ module.exports = function getGuideSidebar() {
           text: '添加快捷键',
           link: '/guide/function/添加快捷键/index',
         },
+        {
+          text: '自动补全',
+          link: '/guide/function/自动补全/index',
+        },
       ],
     },
     {
