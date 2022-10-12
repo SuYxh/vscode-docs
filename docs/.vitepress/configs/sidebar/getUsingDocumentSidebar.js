@@ -5,6 +5,10 @@ module.exports = function getUsingDocumentSidebar() {
       link: '/usingDocument/简介',
     },
     {
+      text: '安装',
+      link: '/usingDocument/安装',
+    },
+    {
       text: '核心功能',
       children: [
         {

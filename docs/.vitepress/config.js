@@ -3,20 +3,21 @@ const nav = require('./configs/nav')
 const sidebar = require('./configs/sidebar')
 
 module.exports = {
-  title: 'VitePress',
+  title: 'vscode插件-Yao',
   description: 'Life is short, Keep it simple.',
-  head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }]],
+  head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/zz-fe.jpg' }]],
   base: base,
   themeConfig: {
-    repo: 'SuYxh/vitepress-demo',
-    logo: '/logo.svg',
+    // repo: 'SuYxh/vscode-docs',
+    // logo: '/logo.svg',
+    logo: '/zz-fe.jpg',
     docsDir: 'docs',
     docsBranch: 'master',
 
     algolia: {
       appId: 'PPGAVKEK5G',
       apiKey: '0e1577e38c8b10771d19d8fe606b73c9',
-      indexName: 'vitepress-demo',
+      indexName: 'vscode-docs',
     },
 
     // nav

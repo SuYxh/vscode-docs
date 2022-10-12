@@ -1,6 +1,8 @@
 :root {
-  --c-brand: #646cff;
-  --c-brand-light: #747bff;
+  /* --c-brand: #646cff;
+  --c-brand-light: #747bff; */
+  --c-brand: #ff483c;
+  --c-brand-light: #ff483c;
 }
 
 .demo-block .xl-button {
