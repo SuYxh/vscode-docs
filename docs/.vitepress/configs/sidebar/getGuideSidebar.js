@@ -12,6 +12,18 @@ module.exports = function getGuideSidebar() {
           link: '/guide/插件能做什么'
         }
       ]
+    },
+    {
+      text: '工程创建',
+      link: '/guide/工程创建'
+    },
+    {
+      text: '目录结构',
+      link: '/guide/目录结构'
+    },
+    {
+      text: '运行调试',
+      link: '/guide/运行调试'
     }
   ]
 }
