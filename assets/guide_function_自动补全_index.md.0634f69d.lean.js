@@ -1,0 +1,1 @@
+import{o as e,c as t,b as o}from"./app.d71e780f.js";const i='{"title":"自动补全","description":"","frontmatter":{},"headers":[{"level":2,"title":"自动补全","slug":"自动补全"}],"relativePath":"guide/function/自动补全/index.md","lastUpdated":1665622375204}',l={},d=[o('',3)];l.render=function(o,i,l,r,n,s){return e(),t("div",null,d)};export default l;export{i as __pageData};
