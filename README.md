@@ -1,39 +1,81 @@
-# Vitepress Demo
+# Yao
 
-基于 [Vitepress-Theme-Demoblock](https://github.com/SuYxh/vitepress-theme-demoblock) 插件来实现vue组件的支持。
+## 名称
 
-- [x] vue组件
+Yao！ 马良让你写更少的代码，瑶让你更快的写代码。       
 
-```js
-<demo-block>
-  <xl-button>默认按钮</xl-button>
-  <xl-button type="primary">主要按钮</xl-button>
-  <xl-button type="success">成功按钮</xl-button>
-  <xl-button type="info">信息按钮</xl-button>
-  <xl-button type="warning">警告按钮</xl-button>
-  <xl-button type="danger">危险按钮</xl-button>
-</demo-block>
-```
 
-![image-20210629113103980](https://tva1.sinaimg.cn/large/008i3skNly1gryz9niyqkj31180a2dgm.jpg)
+## 插件定位
+
+对标公司"降本提效"的理念，追求效率，赋能开发。~~让你有更多的时间去峡谷锻炼身体！~~
 
 
 
-- [x] vue代码自动渲染并且显示对应code（支持script和style）
+**“提效”**：  核心是快，让你写代码的速度和5G一样快。
 
-:::demo 使用`type`、`plain`、`round`和`circle`属性来定义 Button 的样式。
-```vue
-<template>
-  <xl-button>默认按钮</xl-button>
-  <xl-button type="primary">主要按钮</xl-button>
-  <xl-button type="success">成功按钮</xl-button>
-  <xl-button type="info">信息按钮</xl-button>
-  <xl-button type="warning">警告按钮</xl-button>
-  <xl-button type="danger">危险按钮</xl-button>
-</template>
-```
-:::
+- 选定即导入，选中zzui组件即可引入zzui，并且恰到好处的自动use，能导入的不仅仅只有zzui
+- ~~空格即是记忆，忘记某个组件的属性或者属性值，只需在合适的地方按下空格，奇迹就会发生~~
+- zzui官网搬进vscode，定位组件比你更快
+- 内置开发模版
+- ~~海量代码片段，你想要的都有：原生代码片段、功能性代码片段，比如：吊起、分享等等~~
+- ~~自定义配置让你随心所欲~~
 
 
-![image-20210629112953325](https://tva1.sinaimg.cn/large/008i3skNly1gryz8i2x8wj61170u0aex02.jpg)
+
+**“降本”：** 至少可以让你少装3个插件，他们具备的我都有，他们没有的我还有！
+
+
+
+## 功能简介
+
+- 自动补全：zzui组件、~~组件属性、属性值自动提示和补全~~
+- 自动导入：zzui自动导入，工具函数自动导入
+- 代码片段
+- 内置webview
+- ~~自定义设置~~
+
+
+
+## 功能演示
+
+1、离线安装
+
+2、插件展示
+
+![image-20221012224749517](https://qn.huat.xyz/mac/20221012224749.png)
+
+
+
+
+## 开发流程
+
+[开发指南](../guide/index.md)
+
+## 相关文档
+
+
+1、vscode 插件
+http://gitlab.zhuanspirit.com/yangxinhao/zz-vscode-plugin
+
+2、vscode 插件后台
+http://gitlab.zhuanspirit.com/yangxinhao/zz-vscode-plugin-admin
+
+3、vscode 插件后端api
+http://gitlab.zhuanspirit.com/yangxinhao/zz-vscode-plugin-api
+
+4、vscode配套文档代码
+http://gitlab.zhuanspirit.com/yangxinhao/zz-vscode-plugin-docify 
+
+
+5、vscode 插件api文档
+https://www.showdoc.com.cn/zzvscodeplugin/7551418247207057
+
+6、vscode配套文档
+https://ironc.gitee.io/vscode-docsify
+
+7、后台地址
+https://vscode.ironc.cn   账号： zzfe  密码：zzfe 
+
+8、api地址
+https://vscode-api.ironc.cn/
 
