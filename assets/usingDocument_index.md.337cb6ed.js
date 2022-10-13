@@ -1,0 +1,1 @@
+import{o as t,c as e,b as a}from"./app.d035c38e.js";const o='{"title":"关于yao","description":"","frontmatter":{},"relativePath":"usingDocument/index.md","lastUpdated":1665626806433}',r={},n=[a("h1",{id:"关于yao"},"关于yao",-1)];r.render=function(a,o,r,d,i,s){return t(),e("div",null,n)};export default r;export{o as __pageData};
