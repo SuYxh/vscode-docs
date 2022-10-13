@@ -43,7 +43,15 @@ import { getQuery } from '@zz-platform/future'
 
 
 
-3、`imel` 文字省略
+3、`improxy`  
+
+```
+const { proxy } = getCurrentInstance() as ComponentInternalInstance
+```
+
+
+
+4、`imel` 文字省略
 
 ```
 @import '@zz-common/zz-ui/lib/style/mixins/ellipsis.scss';
@@ -51,9 +59,7 @@ import { getQuery } from '@zz-platform/future'
 
 
 
-
-
-4、`imha` 1px边框
+5、`imha` 1px边框
 
 ```
 @import '@zz-common/zz-ui/lib/style/mixins/hairline.scss';
