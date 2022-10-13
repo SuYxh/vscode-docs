@@ -1,0 +1,1 @@
+import{o as t,c as n,e as s}from"./app.d035c38e.js";const a='{"title":"添加快捷键","description":"","frontmatter":{},"headers":[{"level":2,"title":"添加快捷键","slug":"添加快捷键"}],"relativePath":"guide/function/添加快捷键/index.md","lastUpdated":1665650843272}',o={},p=[s('',5)];o.render=function(s,a,o,e,c,u){return t(),n("div",null,p)};export default o;export{a as __pageData};

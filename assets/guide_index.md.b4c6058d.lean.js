@@ -1,0 +1,1 @@
+import{o as e,c as o,e as t}from"./app.d035c38e.js";const r='{"title":"关于vscode插件","description":"","frontmatter":{},"headers":[{"level":2,"title":"参考资料","slug":"参考资料"}],"relativePath":"guide/index.md","lastUpdated":1665650843272}',d={},s=[t('',8)];d.render=function(t,r,d,a,p,c){return e(),o("div",null,s)};export default d;export{r as __pageData};
